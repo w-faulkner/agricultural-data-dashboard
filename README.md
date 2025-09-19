@@ -130,9 +130,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Will Faulkner**
 
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
-- Portfolio: [Your portfolio URL]
+- Email: fwill7782@gmail.com
+- LinkedIn: faulknerwill
 
 ## 🙏 Acknowledgments
 
@@ -143,3 +142,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *This dashboard provides comprehensive insights into agricultural economics, from land values to commodity pricing trends, helping stakeholders make informed decisions in the agricultural sector.*
+
